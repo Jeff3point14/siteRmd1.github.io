@@ -1,0 +1,17 @@
+name: "jeffs-website"
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Pivot"
+      href: pivot.html
+    - text: "Plotly"
+      href: plotly.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+

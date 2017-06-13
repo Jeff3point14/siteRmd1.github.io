@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+##### Links
+* [From rStudio](http://rmarkdown.rstudio.com/lesson-1.html)
+* [Pandoc Markdown](http://rmarkdown.rstudio.com/authoring_pandoc_markdown.html)
+* [R Markdown Websites](http://rmarkdown.rstudio.com/rmarkdown_websites.html)
+* [htmlwidgets](http://gallery.htmlwidgets.org)

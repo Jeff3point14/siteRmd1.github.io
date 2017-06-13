@@ -1,0 +1,19 @@
+---
+title: "Plotly"
+---
+
+```{r setup, include=FALSE}
+library(ggplot2)
+library(plotly)
+```
+
+
+I made a site
+
+
+### Follow Along:
+```{r, fig.width=4, fig.height=3, echo=FALSE, message=FALSE}
+p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
+            geom_bar(position = "dodge")
+ggplotly(p)
+```

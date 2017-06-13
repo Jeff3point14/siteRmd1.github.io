@@ -1,0 +1,17 @@
+---
+title: "Pivot"
+---
+
+
+```{r setup, include=FALSE}
+library(rpivotTable)
+```
+
+
+I made a site
+
+
+### Follow Along:
+```{r, echo = FALSE}
+rpivotTable(iris)
+```
