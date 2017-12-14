@@ -1,6 +1,8 @@
 ---
-title: "Jeff's Website"
+title: ""
 ---
 
-Hello, World! I made a site!
-
+### Search Sites:
+* http://rseek.org
+* https://www.rdocumentation.org
+* https://stackoverflow.com/questions/tagged/r
